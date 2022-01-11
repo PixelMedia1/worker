@@ -36,3 +36,6 @@ workflows:
             - Devop1
             - Devop2
             - Devop3
+           
+orbs:
+jq: circleci/jq@2.2.0
